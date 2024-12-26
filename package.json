@@ -1,0 +1,50 @@
+{
+  "name": "webortex-ui-button",
+  "description": "Webortex button is a React-based reusable button component library with Tailwind CSS and TypeScript. Build accessible and customizable buttons effortlessly.",
+  "version": "0.0.1",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://webortex.com/",
+  "repository": {
+    "url": "git+https://github.com/webortex/webortex-ui-button.git"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "react",
+    "button-component",
+    "tailwind",
+    "typescript",
+    "webortex-button",
+    "reusable-button",
+    "react-library",
+    "ui-component",
+    "custom-button",
+    "tailwindcss",
+    "tsx",
+    "accessible-buttons",
+    "react-button",
+    "component-library",
+    "frontend"
+  ],
+  "author": "sisindri singamsetti",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwindcss": "^3.4.17"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "tsup": "^8.3.5",
+    "typescript": "^5.7.2"
+  }
+}
