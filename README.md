@@ -1,3 +1,0 @@
-# Say Hello to First Package
-
-First Package in the Webortex UI....
